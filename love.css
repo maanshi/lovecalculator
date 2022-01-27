@@ -1,0 +1,40 @@
+body{
+  background-color:#96CEB4;
+
+}
+.button{
+margin-top: 10px;
+}
+.container1{
+  padding: 7% 15%;
+  text-align: center;
+}
+h1{
+  color:red;
+  font-family: "Comforter";
+  font-size: 5rem;
+  font-weight: bolder;
+  text-align: center;
+  padding-top: 3%;
+}
+h3{
+  color:#FF6363;
+  font-family: "Fuzzy Bubbles";
+  font-weight: bolder;
+  margin-bottom: 20px;
+}
+h2{
+  font-family: cursive;
+  color:#B91646;
+   margin-bottom:40px;
+}
+footer{
+  color: black;
+  text-align: center;
+}
+button:hover{
+  background-color:#35858B;
+}
+p{
+  color:#D3DEDC;
+}
